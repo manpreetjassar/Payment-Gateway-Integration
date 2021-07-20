@@ -6,5 +6,7 @@ There will be a simple donate button on homepage. On clicking the donate button,
 Once the payment is done and invoice will be generated and email will be sent to the user for the payment received. The invoice will contain the amount.
 
 IDE: Visual Studio Code
+
 Web Design: Responsive
+
 Front-end: HTML5, CSS3, Bootstrap4, JavaScript
